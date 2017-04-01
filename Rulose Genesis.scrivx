@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-IQU12VB" Modified="2017-03-04 09:53:53 -0500" ModID="3D6D0CBD-78A8-46CF-B847-C2D503363A3D">
+    <Binder>
+        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-24 22:48:19 -0500" Modified="2014-06-12 00:17:20 -0500" Type="Text">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <LabelID>5</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,2473</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-03 18:27:29 -0500" Modified="2007-03-24 23:00:41 -0500" Type="DraftFolder">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="4" UUID="9E980376-C6E3-48C2-9312-D7F0BE6F4AB2" Created="2006-11-03 18:31:13 -0500" Modified="2016-12-07 14:49:04 -0500" Type="Folder">
+                    <Title>Kwans Attack Candel</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="41" UUID="E53F97A5-2FB9-408F-9208-2830610DC13C" Created="2016-12-03 03:30:44 -0500" Modified="2017-02-19 20:49:20 -0500" Type="Text">
+                            <Title>Kwans attack Candel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3052,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="42" UUID="ACF01800-6FFE-41E2-94E0-E684A0CC5B46" Created="2016-12-03 03:31:03 -0500" Modified="2017-02-15 03:18:40 -0500" Type="Text">
+                            <Title>Kwan history</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1015,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="43" UUID="2560F676-D46A-4C6A-9FFA-A5C79F5AFA43" Created="2016-12-03 03:31:07 -0500" Modified="2017-02-19 03:00:32 -0500" Type="Text">
+                            <Title>Quelatune's mission</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3380,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="44" UUID="0073A030-D9DF-44A2-9F19-CB96C20C07C2" Created="2016-12-03 03:34:42 -0500" Modified="2016-12-07 12:47:20 -0500" Type="Folder">
+                    <Title>Robert Meets With Tiffany</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="45" UUID="B84FB5AA-F5B8-43E7-B68B-3654C28BA561" Created="2016-12-03 03:34:56 -0500" Modified="2017-02-15 03:19:03 -0500" Type="Text">
+                            <Title>Robert at Home</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>527,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="939BFC51-75B5-4DFB-A26B-72D091685AB4" Created="2016-12-03 03:35:01 -0500" Modified="2017-02-15 03:19:22 -0500" Type="Text">
+                            <Title>Robert and Tiffany</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>809,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="A65EA4C9-53FB-4481-A42F-D27C71171433" Created="2016-12-03 03:35:05 -0500" Modified="2017-02-15 03:19:35 -0500" Type="Text">
+                            <Title>Robert gets a phone call</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>740,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="48" UUID="7859EC6C-37CD-4EAD-AC96-0B450D826FDD" Created="2016-12-03 03:36:06 -0500" Modified="2016-12-07 14:49:16 -0500" Type="Folder">
+                    <Title>Robert's Wife is Killed</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="49" UUID="E4F7E89D-13FB-483E-B768-56F9C39727E0" Created="2016-12-03 03:36:24 -0500" Modified="2017-02-15 03:19:57 -0500" Type="Text">
+                            <Title>Tragedy Strikes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>644,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="50" UUID="A34024AF-25D4-4560-914A-25D994E68A4E" Created="2016-12-03 03:37:22 -0500" Modified="2016-12-18 14:13:10 -0500" Type="Folder">
+                    <Title>Robert Breaks Down</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="51" UUID="CE160CF1-C2BF-4389-AC30-1CEB05A40C40" Created="2016-12-03 03:37:28 -0500" Modified="2017-02-15 03:20:10 -0500" Type="Text">
+                            <Title>Tiffany worries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>646,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="52" UUID="98B84871-0BCA-4D7C-8847-144C8043EFBF" Created="2016-12-03 03:37:38 -0500" Modified="2017-02-15 03:20:19 -0500" Type="Text">
+                            <Title>Robert's breakdown</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>784,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="53" UUID="A268107D-BAFD-4211-8EE7-3CEAF5A56890" Created="2016-12-03 03:37:47 -0500" Modified="2017-02-15 03:20:50 -0500" Type="Text">
+                            <Title>All over the news</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1404,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="54" UUID="6DEFCD00-6808-438C-AE63-B7F852DF3742" Created="2016-12-03 03:37:52 -0500" Modified="2016-12-18 14:13:15 -0500" Type="Folder">
+                    <Title>Quelatune Announces His Pick</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="55" UUID="676EE02B-7B23-49DE-9A5F-4B63816F3AD2" Created="2016-12-03 03:38:05 -0500" Modified="2017-02-15 03:21:03 -0500" Type="Text">
+                            <Title>Quelatune's pick</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>906,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="57" UUID="B4BB82D7-11E4-4CCE-98BF-80EA1E90E45B" Created="2016-12-03 03:39:26 -0500" Modified="2016-12-18 14:13:28 -0500" Type="Folder">
+                    <Title>Quelatune Meets Bob</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="56" UUID="1A4B3031-BE3F-49D2-85EC-4B60FBDF1866" Created="2016-12-03 03:38:35 -0500" Modified="2017-02-24 02:16:24 -0500" Type="Text">
+                            <Title>Bob meets Quelatune</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7319,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="58" UUID="B45A6CAE-64A7-469B-88C4-4C9CA703EB49" Created="2016-12-03 03:39:58 -0500" Modified="2017-02-21 02:08:21 -0500" Type="Text">
+                            <Title>Media chaos</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2730,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="59" UUID="E32C5E15-80A2-431E-8FA7-8D70DC9CA098" Created="2016-12-03 03:40:03 -0500" Modified="2017-02-21 02:10:27 -0500" Type="Text">
+                            <Title>FBI gets involved</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>601,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="60" UUID="FD732F74-CA64-4768-A578-6539831477E8" Created="2016-12-03 03:40:07 -0500" Modified="2017-02-15 03:22:24 -0500" Type="Text">
+                            <Title>Robert's decision</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>722,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="61" UUID="A2F2614D-15C5-4B78-A295-16D5DF9CB350" Created="2016-12-03 03:40:11 -0500" Modified="2017-02-21 02:13:40 -0500" Type="Text">
+                            <Title>Tiffany's Story</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>644,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="122" UUID="0928086C-52E8-4F0D-AF34-6AF4A9284E96" Created="2016-12-10 08:14:58 -0500" Modified="2016-12-18 14:13:35 -0500" Type="Folder">
+                    <Title>Tiffany's Joins Bob</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="62" UUID="075E29A8-B443-48A7-B680-0B811AA4C0B0" Created="2016-12-03 03:40:14 -0500" Modified="2017-02-15 03:22:38 -0500" Type="Text">
+                            <Title>Tiffany's blessing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>520,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="D5F8F32E-ADF8-4349-8F4A-4528086F4668" Created="2016-12-03 03:40:20 -0500" Modified="2017-02-21 02:24:43 -0500" Type="Text">
+                            <Title>Michael not going</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>964,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="108" UUID="2386247C-F72C-4577-BF68-357013540515" Created="2016-12-03 16:50:21 -0500" Modified="2017-02-15 03:22:51 -0500" Type="Text">
+                            <Title>Tiffany and Lauren</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>824,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="109" UUID="5C98F25B-5396-4B99-ADE1-44B90020FB5C" Created="2016-12-03 16:51:57 -0500" Modified="2017-02-21 02:33:04 -0500" Type="Text">
+                            <Title>Tiffany's parents</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3648,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="110" UUID="3599873B-B811-4174-B7F0-93B4AD9AAE39" Created="2016-12-03 16:52:32 -0500" Modified="2017-02-15 03:23:07 -0500" Type="Text">
+                            <Title>Tiffany's decision</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>931,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="65" UUID="D3F26491-9666-45BD-8E5C-0D490E52F42E" Created="2016-12-03 07:38:09 -0500" Modified="2016-12-18 14:13:39 -0500" Type="Folder">
+                    <Title>Bob and Tiffany Depart</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="64" UUID="FBD72F65-3C07-47DF-B05C-4EC8C739A46D" Created="2016-12-03 07:37:57 -0500" Modified="2017-02-15 03:23:16 -0500" Type="Text">
+                            <Title>Off to Gaia</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>144,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="116" UUID="BFCAF1B3-3EB6-42B0-879A-76DE87914895" Created="2016-12-04 03:14:47 -0500" Modified="2017-02-15 03:23:23 -0500" Type="Text">
+                            <Title>Packing guns</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>586,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="112" UUID="6E6FC44A-AA1E-40F9-AE24-0CCA0AA98D43" Created="2016-12-04 03:11:11 -0500" Modified="2017-02-15 03:23:30 -0500" Type="Text">
+                            <Title>In the woods</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1203,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="113" UUID="577E3A7F-E31A-4901-853E-F668A8E9EBA2" Created="2016-12-04 03:11:34 -0500" Modified="2017-02-21 02:49:28 -0500" Type="Text">
+                            <Title>Tiffany is joining</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1273,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="129" UUID="FE1F2861-AB85-49E8-A954-023A8CEB1AD9" Created="2016-12-12 00:01:03 -0500" Modified="2016-12-18 14:13:44 -0500" Type="Folder">
+                    <Title>The trip to Gaia</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="114" UUID="26AFB29C-29FE-4080-ABBC-E81F3895A3BF" Created="2016-12-04 03:12:38 -0500" Modified="2017-02-21 02:57:24 -0500" Type="Text">
+                            <Title>Called Gaia</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2364,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="115" UUID="5849FAE4-7945-425D-9821-0BA54F2A4307" Created="2016-12-04 03:13:47 -0500" Modified="2017-02-15 03:23:48 -0500" Type="Text">
+                            <Title>Quelatune gets to know Bob and Tiff</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1059,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="124" UUID="3E119F05-7D52-4AA5-B00A-BEDFB69BF745" Created="2016-12-11 10:06:27 -0500" Modified="2017-02-21 03:05:50 -0500" Type="Text">
+                            <Title>Tricky Landing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3123,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="123" UUID="2A0AE737-CE2C-4421-B26C-3C97700EABAC" Created="2016-12-11 10:05:47 -0500" Modified="2016-12-21 15:04:22 -0500" Type="Folder">
+                    <Title>Desert of Illusion and Arrival</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="130" UUID="6E39B2D4-AC73-42EC-8497-7A9386197A50" Created="2016-12-13 10:21:30 -0500" Modified="2017-02-23 23:33:07 -0500" Type="Text">
+                            <Title>Ship takeover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10051,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="131" UUID="88E83883-D04B-49E8-867B-502412735DA8" Created="2016-12-13 10:23:31 -0500" Modified="2017-02-24 00:58:26 -0500" Type="Text">
+                            <Title>Call the rebels</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5013,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="132" UUID="289B3083-1B5B-43D9-82A5-553E6A88C079" Created="2016-12-13 10:25:21 -0500" Modified="2017-02-24 01:09:48 -0500" Type="Text">
+                            <Title>Fusion with X1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4319,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="133" UUID="2D168B3B-9660-4D5E-BBF1-17BD6D849C7D" Created="2016-12-13 14:00:08 -0500" Modified="2017-02-24 01:18:49 -0500" Type="Text">
+                            <Title>Dogfight!</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5074,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="125" UUID="EE3B683F-0337-47DE-BF89-91513738A31E" Created="2016-12-11 10:07:10 -0500" Modified="2017-02-24 01:27:19 -0500" Type="Text">
+                            <Title>Robert Comforts Tiffany</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="126" UUID="87DFB474-B7A3-41C5-93D5-73F22DEAEACB" Created="2016-12-11 10:07:44 -0500" Modified="2017-02-24 01:40:43 -0500" Type="Text">
+                            <Title>Help Arrives, Tiffany/Rebekah</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4611,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="136" UUID="50C21C13-AD67-4C1D-8CF1-E884683C727E" Created="2016-12-21 15:03:14 -0500" Modified="2017-02-24 01:47:37 -0500" Type="Text">
+                            <Title>Arrive in Angelina</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3114,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="140" UUID="83FB10FB-44F0-420F-BC16-1FD2D8B5F1D6" Created="2016-12-22 13:37:14 -0500" Modified="2017-02-10 02:54:40 -0500" Type="Folder">
+                    <Title>The beginnings of Rulose Life</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="139" UUID="1FAD3E11-C274-48BC-BC05-22E68F2BF1AE" Created="2016-12-22 00:23:01 -0500" Modified="2017-02-24 01:51:47 -0500" Type="Text">
+                            <Title>Tiffany thanks Robert</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1680,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="127" UUID="54500C29-F011-4949-8FCD-386C65C27A33" Created="2016-12-11 10:09:52 -0500" Modified="2017-02-24 02:01:57 -0500" Type="Text">
+                            <Title>Robert, Tiffany and The Council</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="128" UUID="620BD7E4-C34B-4A88-838B-DEDED20ECFF4" Created="2016-12-11 10:13:28 -0500" Modified="2017-03-04 08:32:37 -0500" Type="Text">
+                            <Title>Robert goes through with Kaoli Man</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>24907,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="141" UUID="89534653-49D8-4870-A728-8AA1D5908C4B" Created="2016-12-27 15:53:30 -0500" Modified="2017-02-10 02:54:45 -0500" Type="Folder">
+                    <Title>Tiffany and Rebekah</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="142" UUID="74D947AB-7ABC-4F85-847E-812946B8029F" Created="2016-12-27 15:54:29 -0500" Modified="2017-02-15 03:28:14 -0500" Type="Text">
+                            <Title>Tiffany unhappy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>781,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="146" UUID="417DFEFD-1DDE-482F-A5BA-2D39C6A154DF" Created="2016-12-27 15:58:31 -0500" Modified="2017-03-04 08:36:43 -0500" Type="Text">
+                            <Title>Rebekah visit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2549,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="135" UUID="0CB7B16E-4E4B-4B79-A58C-DD2B624D77D2" Created="2016-12-18 14:01:10 -0500" Modified="2017-03-04 08:44:18 -0500" Type="Text">
+                            <Title>Rebekah is a Kwan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6225,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="147" UUID="A0AA3B7E-2A06-4099-8E71-2A92EA23A189" Created="2017-01-01 09:51:51 -0500" Modified="2017-02-10 02:54:51 -0500" Type="Folder">
+                    <Title>Robert, Smoke and Amaga</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="148" UUID="84F47459-32E1-47B3-8F97-735CB171C1AD" Created="2017-01-01 15:49:58 -0500" Modified="2017-02-15 03:28:35 -0500" Type="Text">
+                            <Title>Robert's supsicion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>697,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="106" UUID="06A72371-3569-4603-813E-59462414CC1F" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 08:52:41 -0500" Type="Text">
+                            <Title>Robert's operation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4272,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="105" UUID="DE2FC113-DD24-4065-B5F3-C494985BA63B" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:00:38 -0500" Type="Text">
+                            <Title>Robert meets Smoke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6629,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="149" UUID="2FB7E624-75C6-4A34-ACFF-F56F99DEB41B" Created="2017-01-02 06:54:37 -0500" Modified="2017-02-15 03:28:50 -0500" Type="Text">
+                            <Title>Robert sends for Amaga</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1094,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="104" UUID="4E45B6C7-EB9C-4755-AF46-8512E58E46C2" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:07:05 -0500" Type="Text">
+                            <Title>Robert meets Amaga</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3720,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="B5FD1988-D3E5-44C0-A805-D4F51653864D" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:08:15 -0500" Type="Text">
+                            <Title>Smoke/Amaga story</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>590,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="157" UUID="6BF7C8AB-2781-4F6E-9C94-84567CC916DD" Created="2017-01-11 00:00:10 -0500" Modified="2017-02-10 02:54:57 -0500" Type="Folder">
+                    <Title>Training to Kaoli Man</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="150" UUID="0DF0F3D4-A276-4563-8D07-8C408D929B67" Created="2017-01-07 11:05:24 -0500" Modified="2017-03-04 09:10:36 -0500" Type="Text">
+                            <Title>Babysitting mission</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1002,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="151" UUID="DE52E382-0F4B-472D-96E1-B2758785FF5A" Created="2017-01-07 11:06:36 -0500" Modified="2017-03-04 09:11:56 -0500" Type="Text">
+                            <Title>Tiffany's doubts</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1088,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="152" UUID="924B1F87-C8A2-49C6-8E03-57C2C4CAB224" Created="2017-01-07 11:08:16 -0500" Modified="2017-02-15 04:30:45 -0500" Type="Text">
+                            <Title>Robert's memories</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1304,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="153" UUID="004289A9-77A5-447A-ABB3-DE0E814FE869" Created="2017-01-07 11:09:53 -0500" Modified="2017-03-04 09:15:19 -0500" Type="Text">
+                            <Title>Given crystal/Tiffany's citizenship</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>568,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="154" UUID="AC89D9E5-9316-4EF2-9410-689327F49ACB" Created="2017-01-07 11:10:59 -0500" Modified="2017-03-04 09:22:38 -0500" Type="Text">
+                            <Title>Training</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2552,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="155" UUID="0AB66495-F563-4549-88B2-3F5F616B4893" Created="2017-01-07 11:13:17 -0500" Modified="2017-03-04 09:25:21 -0500" Type="Text">
+                            <Title>Nightmare</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2404,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="156" UUID="BBEC0B7A-7150-4A57-B5A8-512D7123FC1D" Created="2017-01-07 11:14:31 -0500" Modified="2017-03-04 09:30:22 -0500" Type="Text">
+                            <Title>Quelatune on Timothy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5033,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="158" UUID="CF7E0781-018D-4523-ABE2-24D24979F923" Created="2017-01-16 21:50:15 -0500" Modified="2017-02-10 02:55:01 -0500" Type="Folder">
+                    <Title>Temple Bombing</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="100" UUID="467AD324-7CCE-4C80-9940-903C0BF90E9B" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:35:16 -0500" Type="Text">
+                            <Title>The Bombing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4275,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="99" UUID="8C14C3A3-C6DF-4219-80CE-1B807CBD742F" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:36:25 -0500" Type="Text">
+                            <Title>Tiffany's suspicion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>520,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="98" UUID="246D7728-6FB8-44FA-8A59-AD6259BE06D6" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 03:30:02 -0500" Type="Text">
+                            <Title>Robert onto Rebekah</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>561,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="97" UUID="778A65D2-9606-4A4B-A3AB-07340B119540" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:45:32 -0500" Type="Text">
+                            <Title>Post attack meeting/Rebekah Demoted</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6681,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="95" UUID="44DDB6AD-0313-4D9E-93EA-2632401F1CDD" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 03:30:22 -0500" Type="Text">
+                            <Title>Smoke dfnds Rebekah</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1114,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="94" UUID="4A219678-4CC2-45CF-AE5E-0F30F2ABAAA9" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 17:43:37 -0500" Type="Text">
+                            <Title>Rebekah reassigned</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>186,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="93" UUID="E20768CE-58A4-4F06-B246-48BE9A432F48" Created="2016-12-03 07:38:41 -0500" Modified="2017-03-04 09:52:20 -0500" Type="Text">
+                            <Title>Tiffany repremanded</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3456,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="159" UUID="42079802-AA47-426B-9668-4229ACCF3C34" Created="2017-01-26 00:54:04 -0500" Modified="2017-02-10 02:55:07 -0500" Type="Folder">
+                    <Title>Robert's New Weapons</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="92" UUID="5A538C7B-B326-43AC-AE60-5B46248A9ECA" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-21 02:45:19 -0500" Type="Text">
+                            <Title>Robert's new wpns</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3605,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="91" UUID="B64F43C8-4FE3-416F-9CFF-E56E91F812AA" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 18:23:41 -0500" Type="Text">
+                            <Title>Weapons testing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9748,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="160" UUID="E4F5C0C0-E7A4-4377-A1E1-33939C78FB97" Created="2017-01-30 23:09:54 -0500" Modified="2017-02-10 02:55:17 -0500" Type="Folder">
+                    <Title>Amelrak Battle/Amaga's Death</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="161" UUID="1B6F6652-15BF-4951-A616-2984442AA377" Created="2017-02-01 22:47:39 -0500" Modified="2017-02-15 18:34:20 -0500" Type="Text">
+                            <Title>Meeting/Briefing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2266,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="162" UUID="8BA51AA4-212D-444A-B4D5-2D37C30F24A0" Created="2017-02-01 22:48:14 -0500" Modified="2017-02-15 03:30:58 -0500" Type="Text">
+                            <Title>Touring X2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>994,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="166" UUID="580C8170-13A5-4021-B682-562DDC1B2D80" Created="2017-02-01 23:27:14 -0500" Modified="2017-02-24 00:40:39 -0500" Type="Text">
+                            <Title>Battle Plans</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2051,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="163" UUID="8BD339ED-3415-4FD4-90A5-B3C60A5CD5E5" Created="2017-02-01 22:48:46 -0500" Modified="2017-02-15 18:46:14 -0500" Type="Text">
+                            <Title>On the Way</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>996,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="164" UUID="7D127EE8-A84F-4353-AEA7-F0F49DF183B0" Created="2017-02-01 22:49:32 -0500" Modified="2017-02-15 18:48:55 -0500" Type="Text">
+                            <Title>Dogfight in the sky</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1805,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="165" UUID="E421DC21-3FD7-4AA5-A1DD-1271991905BF" Created="2017-02-01 22:50:02 -0500" Modified="2017-02-15 03:31:20 -0500" Type="Text">
+                            <Title>Crash on the Ground/Battle</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2657,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="167" UUID="626E4EFF-4517-43D3-B263-B4A3FDDB4D79" Created="2017-02-01 23:29:40 -0500" Modified="2017-02-15 19:09:05 -0500" Type="Text">
+                            <Title>Retreat</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3531,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="89" UUID="AE52B2AE-08F7-4627-9190-91F443532269" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-24 00:42:57 -0500" Type="Text">
+                            <Title>Amaga is dead</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>321,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="88" UUID="85B2CC7E-955D-44FF-ACE1-254C3311493F" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 19:37:57 -0500" Type="Text">
+                            <Title>Damning research</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>738,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="168" UUID="AFAF8800-C14A-4782-987E-104B93F71E33" Created="2017-02-13 00:33:49 -0500" Modified="2017-02-13 00:34:23 -0500" Type="Folder">
+                    <Title>The Aftermath</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="87" UUID="F5CB4926-67B5-4EC6-A59B-44630A30455A" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 19:49:24 -0500" Type="Text">
+                            <Title>Rebekah is fired</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2653,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="86" UUID="BA6F1098-728B-4771-A790-D770FAA8EC48" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 19:58:18 -0500" Type="Text">
+                            <Title>Rebekah forgiven</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3536,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="85" UUID="AB172BA3-2A35-41FF-926D-C61A28B548BB" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-16 00:10:24 -0500" Type="Text">
+                            <Title>Robert's crystal</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2832,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="169" UUID="57B8BE5C-9BF3-4BBD-BF01-39B601D1AAA6" Created="2017-02-14 00:14:27 -0500" Modified="2017-02-14 00:14:34 -0500" Type="Folder">
+                    <Title>Tiffany's death</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="170" UUID="2E66E207-C52B-41DB-A167-5085A487134A" Created="2017-02-14 00:15:04 -0500" Modified="2017-02-16 00:13:11 -0500" Type="Text">
+                            <Title>Tiffany's decision</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,1622</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="171" UUID="3A6B4103-6794-4661-9506-A653B60BC980" Created="2017-02-14 00:20:14 -0500" Modified="2017-02-16 00:31:54 -0500" Type="Text">
+                            <Title>Meetings with Father</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,205</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="172" UUID="AF69D541-2DCB-4D60-9812-BF660E7BECC1" Created="2017-02-14 00:20:50 -0500" Modified="2017-02-16 00:45:08 -0500" Type="Text">
+                            <Title>Tiffany's choice</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1452,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="173" UUID="DB7F8ED1-C528-494C-A8DB-D6AB8E116A46" Created="2017-02-14 00:21:57 -0500" Modified="2017-02-16 00:48:18 -0500" Type="Text">
+                            <Title>Taking pills</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>313,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="174" UUID="DC320720-8C9B-46A0-86EE-2F0856456C62" Created="2017-02-14 00:22:39 -0500" Modified="2017-02-16 00:53:09 -0500" Type="Text">
+                            <Title>Operation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>458,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="175" UUID="92062331-759A-4B9F-A7D6-D5CE7881BA43" Created="2017-02-14 00:22:58 -0500" Modified="2017-02-16 00:58:33 -0500" Type="Text">
+                            <Title>Tiffany's post-op</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>906,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="176" UUID="EF6D6169-43A4-4853-B5FB-2BC1B2527A82" Created="2017-02-14 00:26:22 -0500" Modified="2017-02-16 01:04:18 -0500" Type="Text">
+                            <Title>Sleep disturbances</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>886,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="177" UUID="0DF31865-BA1B-4D53-9D11-36135944221C" Created="2017-02-14 00:27:14 -0500" Modified="2017-02-16 01:14:34 -0500" Type="Text">
+                            <Title>Higher blood pressure</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>908,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="178" UUID="D50D74CD-8371-4001-A3E4-DC66503E247E" Created="2017-02-14 00:27:54 -0500" Modified="2017-02-16 01:22:21 -0500" Type="Text">
+                            <Title>Weight loss</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1071,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="179" UUID="F87EC9A3-F192-4FC9-85A2-771294ABA117" Created="2017-02-14 00:29:22 -0500" Modified="2017-02-16 01:44:57 -0500" Type="Text">
+                            <Title>Brain swelling</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3042,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="180" UUID="12635C30-D616-4812-9060-F0105D4AC50D" Created="2017-02-14 00:30:13 -0500" Modified="2017-02-19 01:47:48 -0500" Type="Text">
+                            <Title>Severe insomnia</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1344,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="181" UUID="75EEE262-8C2F-4D30-8D48-8AF4D126A097" Created="2017-02-14 00:32:32 -0500" Modified="2017-02-19 01:46:38 -0500" Type="Text">
+                            <Title>Stroke</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7675,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="182" UUID="6BBB01F1-BB67-4949-8121-35DA549ABA83" Created="2017-02-14 00:33:10 -0500" Modified="2017-02-14 00:41:52 -0500" Type="Text">
+                            <Title>Tiffany dies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="83" UUID="BBA11BDA-0144-4996-AC96-F86CBDF23041" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Rebekah and Robert</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="82" UUID="32F3AFB3-0FA1-489B-BCBD-2B8274B3E0E1" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-19 15:30:51 -0500" Type="Text">
+                    <Title>Smoke's suspicions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="81" UUID="8DDA4A35-6C15-461D-9B13-6AE5D81A663A" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Rebekah resigns</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="80" UUID="85E4E550-FE7F-4B21-80C7-639C1FCF19F1" Created="2016-12-03 07:38:41 -0500" Modified="2017-01-01 16:53:48 -0500" Type="Text">
+                    <Title>Bob outs Rebekah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="79" UUID="C1176011-8B66-460F-991C-3E2DA1571B15" Created="2016-12-03 07:38:41 -0500" Modified="2017-01-22 22:26:11 -0500" Type="Text">
+                    <Title>Rebekah's emails</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="78" UUID="432E3882-AB01-4CE6-A9F5-35A1E650D332" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>True colors</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="77" UUID="7C983EDB-A25C-4BC7-ACE1-1F490491BF27" Created="2016-12-03 07:38:41 -0500" Modified="2017-01-01 16:55:36 -0500" Type="Text">
+                    <Title>The Rail Gun</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="76" UUID="5BAC4E7D-B74E-465C-B8E7-4F13C76FE0A3" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Rebekah's Warning</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="75" UUID="19B7846A-4BA6-494D-9925-43655900218B" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Invasion iminent</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="74" UUID="24D63B42-3C6F-45A6-8BCA-4E43790EAA34" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Pressure to Summon</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="73" UUID="908764B3-5C05-4088-B2C5-B23D10A88E3B" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Kwans invd Angelina</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="72" UUID="EBB32352-EC73-4934-8C1C-1C02D7853578" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>The battle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="71" UUID="E1274740-7CB0-4A0F-8673-91DC63237196" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Rebekah hesitates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="70" UUID="272EDC73-7CDF-4464-9A19-3B283F2BD14A" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Timothy Summoned</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="69" UUID="410F58A5-EAAF-40AD-BECC-F1983ECD7D92" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Treaty</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="68" UUID="0F3255AC-9B84-4825-8BC1-CAAA0F681A91" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Riptide's suicide</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="67" UUID="9429FC6E-8BC2-49C0-98B1-B3FF38598BA2" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Democracy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="66" UUID="87D8C16E-B583-4BA8-984E-D1221397F6E8" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Skyler adopted</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-18 14:06:35 -0500" Modified="2016-12-07 15:10:04 -0500" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="120" UUID="04B860C0-4DFC-4EAC-9E09-901316928C85" Created="2016-12-07 15:09:53 -0500" Modified="2016-12-07 15:27:07 -0500" Type="Text">
+                    <Title>Father Quelatune</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="805">0,805</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="121" UUID="DC7BCB31-6056-41B6-97D2-1BE55CEC8D2A" Created="2016-12-07 15:24:24 -0500" Modified="2016-12-07 15:25:54 -0500" Type="Text">
+                    <Title>Rebekah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="70">0,70</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Created="2010-10-18 14:06:37 -0500" Modified="2010-10-18 14:06:56 -0500" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="29" UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Created="2011-07-19 18:15:20 -0500" Modified="2011-07-19 18:15:23 -0500" Type="Folder">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="14" UUID="B89C2FAA-06BD-433B-BA8B-6BADC30E64FB" Created="2014-06-11 07:52:32 -0500" Modified="2014-06-11 07:52:32 -0500" Type="Folder">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="40" UUID="DAD0D623-098A-472A-B274-84638F5EF5B1" Created="2015-09-23 02:17:01 -0500" Modified="2015-09-23 02:17:01 -0500" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="13" UUID="00B4FA64-D705-4810-B3FB-C566AF858F74" Created="2014-06-11 07:52:32 -0500" Modified="2014-06-11 07:52:32 -0500" Type="Folder">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="21" UUID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465" Created="2014-06-11 07:52:32 -0500" Modified="2014-06-11 07:52:32 -0500" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="19" UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Created="2014-06-11 07:52:32 -0500" Modified="2014-06-11 07:52:32 -0500" Type="Text">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="16" UUID="E2571F9B-549F-4787-9C23-911289FA706E" Created="2014-06-11 07:52:32 -0500" Modified="2014-06-11 07:52:33 -0500" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="11" UUID="00D78C34-591C-4B77-8149-CB18AC21A56C" Created="2014-06-11 07:52:32 -0500" Modified="2014-06-11 07:52:33 -0500" Type="Folder">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="23" UUID="767D41CE-6E50-4521-ABBA-98962F8712B0" Created="2014-06-11 07:52:33 -0500" Modified="2014-06-11 07:52:33 -0500" Type="Image">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="22" UUID="63DA3161-5F56-4083-A486-0040F0E4EA67" Created="2014-06-11 07:52:33 -0500" Modified="2016-12-04 14:30:39 -0500" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="4E440BDC-B30D-4B89-8CC6-915C71244EA6" Created="2006-11-03 18:27:29 -0500" Modified="2006-11-03 18:27:29 -0500" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="39" UUID="475F1951-26E8-43D7-8BD1-F558DEC3F168" Created="2011-07-19 18:40:07 -0500" Modified="2011-07-19 18:40:11 -0500" Type="Folder">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="9" UUID="B7062B18-2083-4146-9AEB-8A5286BD3DAB" Created="2014-04-24 11:49:45 -0500" Modified="2014-04-24 11:49:46 -0500" Type="PDF">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="8" UUID="6A6ADBEA-A468-47E7-8A64-ECD1C441D647" Created="2014-05-09 21:46:54 -0500" Modified="2014-05-09 21:46:54 -0500" Type="PDF">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="10" UUID="A8ED99F6-E116-411A-B5CD-B124F7508B6C" Created="2014-05-01 10:46:35 -0500" Modified="2014-05-01 10:50:26 -0500" Type="Image">
+                            <Title>ADE E-Book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="20" UUID="0F62E5C2-41F2-41F7-B09A-AF381C34B686" Created="2010-10-18 14:57:18 -0500" Modified="2014-06-12 00:17:27 -0500" Type="Folder">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-11 07:52:57 -0500" Modified="2014-06-11 07:52:57 -0500" Type="Text">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="24" UUID="23A06CD3-648A-45E0-AD6E-19BCBC457E00" Created="2014-06-11 07:52:57 -0500" Modified="2014-06-11 07:52:57 -0500" Type="Text">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="A097E066-25A9-43C7-9FBE-58A2AED4603E" Created="2006-11-03 18:27:29 -0500" Modified="2006-11-03 18:27:29 -0500" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-03 18:33:03 -0500" Modified="2015-09-22 08:20:41 -0500" Type="Text">
+                    <Title>Scene</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="111" UUID="DD102528-789C-4410-8FCA-D32E3C27B389" Created="2016-12-04 03:10:36 -0500" Modified="2016-12-04 03:10:36 -0500" Type="Folder">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="117" UUID="69C808B9-124C-4069-8588-F4D415AF2192" Created="2016-12-07 14:53:33 -0500" Modified="2016-12-07 14:53:33 -0500" Type="Folder">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="118" UUID="EA6E7AEE-BAAD-470E-8749-DBB1F070D835" Created="2016-12-07 14:57:37 -0500" Modified="2016-12-07 14:58:01 -0500" Type="Folder">
+                    <Title>Remaining Chapters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="119" UUID="1564102E-F9A1-48B6-AE49-44B26D79F02C" Created="2016-12-07 15:07:09 -0500" Modified="2016-12-07 15:07:13 -0500" Type="Folder">
+                    <Title>Remaining</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="107" UUID="75260A30-A28E-4A31-BB19-7099D3B28BFE" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-13 14:02:59 -0500" Type="Text">
+                    <Title>Desert of Illusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="2">0,2</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="137" UUID="A6FDE406-40D0-4E0F-905A-289F10A63554" Created="2016-12-22 00:21:48 -0500" Modified="2016-12-22 00:22:05 -0500" Type="Text">
+                    <Title>Tiffany connects with Robert</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="138" UUID="0DCE3B0B-ACC3-46EE-A9E3-155625BB3181" Created="2016-12-22 00:22:37 -0500" Modified="2016-12-22 00:22:37 -0500" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="143" UUID="F327D7C1-77CB-4A4F-B803-3664754C1DB0" Created="2016-12-27 15:54:55 -0500" Modified="2016-12-31 11:55:07 -0500" Type="Text">
+                    <Title>No use</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="144" UUID="E9E2C838-EFE7-43EF-A203-55AE4738F54F" Created="2016-12-27 15:55:26 -0500" Modified="2016-12-31 11:53:50 -0500" Type="Text">
+                    <Title>Rebekah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="145" UUID="93C2F0FB-D26D-4CEC-B9C0-AB387878AF04" Created="2016-12-27 15:57:16 -0500" Modified="2016-12-31 11:55:00 -0500" Type="Text">
+                    <Title>Communication</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="102" UUID="BA5C7A80-EC15-4E2E-87B7-75015036F439" Created="2016-12-03 07:38:41 -0500" Modified="2017-01-07 11:30:53 -0500" Type="Text">
+                    <Title>Bob and Skyler</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="101" UUID="48A1A29E-F2D9-4189-89B2-3829ED6D9E94" Created="2016-12-03 07:38:41 -0500" Modified="2017-01-08 18:14:47 -0500" Type="Text">
+                    <Title>Robert/Kaoli Man</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="134" UUID="B3055373-4F4F-4B75-B866-863F6F642D70" Created="2016-12-13 14:03:05 -0500" Modified="2017-01-15 12:30:30 -0500" Type="Text">
+                    <Title>This is bad</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1164,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="90" UUID="D80C4138-BD91-4F2B-8B8C-C06C2BC571AA" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-01 22:50:38 -0500" Type="Text">
+                    <Title>Attack on Amelrak</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="6583">0,6583</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="84" UUID="7EF07B21-0067-4B44-BC94-7F1749046D77" Created="2016-12-03 07:38:41 -0500" Modified="2016-12-03 07:38:42 -0500" Type="Text">
+                    <Title>Tiffany dies</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="96" UUID="0F70139F-E419-486A-A0B7-10DEB2BE1118" Created="2016-12-03 07:38:41 -0500" Modified="2017-02-15 17:40:18 -0500" Type="Text">
+                    <Title>Rebekah demoted</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,2173</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.000000">Chapter</Label>
+            <Label ID="4" Color="0.274510 0.556863 1.000000">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="73" Characters="432" Date="2017-03-04 08:17:16 -0500"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectProperties>
+        <ProjectTitle>Rulose Genesis</ProjectTitle>
+        <AbbreviatedTitle>Rulose Genesis</AbbreviatedTitle>
+        <FullName>Craig Reeves</FullName>
+    </ProjectProperties>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
